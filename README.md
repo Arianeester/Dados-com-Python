@@ -1,2 +1,3 @@
 # Dados-com-Python
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bcd306a6-0bff-4aab-9016-405fb66b1715" />
+<img width="690" height="330" alt="image" src="https://github.com/user-attachments/assets/801e1184-7a69-4f04-893a-bea56c499064" />
+
